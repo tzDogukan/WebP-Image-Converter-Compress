@@ -1,0 +1,101 @@
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\appsettings.json
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.exe
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.deps.json
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.runtimeconfig.json
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.runtimeconfig.dev.json
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\ref\WebP Image Converter.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.pdb
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.Views.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.Views.pdb
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\ImageProcessor.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\ImageProcessor.Plugins.WebP.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.csproj.AssemblyReference.cache
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.AssemblyInfoInputs.cache
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.AssemblyInfo.cs
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.csproj.CoreCompileInputs.cache
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.RazorAssemblyInfo.cache
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.RazorAssemblyInfo.cs
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\staticwebassets\WebP Image Converter.StaticWebAssets.Manifest.cache
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\staticwebassets\WebP Image Converter.StaticWebAssets.xml
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\scopedcss\bundle\WebP Image Converter.styles.css
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.TagHelpers.input.cache
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.TagHelpers.output.cache
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.RazorCoreGenerate.cache
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.RazorTargetAssemblyInfo.cache
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.RazorTargetAssemblyInfo.cs
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.Views.pdb
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.csproj.CopyComplete
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\ref\WebP Image Converter.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.pdb
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.genruntimeconfig.cache
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\OSX\source\repos\WebP Image Converter\WebP Image Converter\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\appsettings.json
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.exe
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.deps.json
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.runtimeconfig.json
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.runtimeconfig.dev.json
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\ref\WebP Image Converter.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.pdb
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.Views.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\WebP Image Converter.Views.pdb
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\ImageProcessor.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\ImageProcessor.Plugins.WebP.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.csproj.AssemblyReference.cache
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.AssemblyInfoInputs.cache
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.AssemblyInfo.cs
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.csproj.CoreCompileInputs.cache
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.RazorAssemblyInfo.cache
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.RazorAssemblyInfo.cs
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\staticwebassets\WebP Image Converter.StaticWebAssets.Manifest.cache
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\staticwebassets\WebP Image Converter.StaticWebAssets.xml
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\scopedcss\bundle\WebP Image Converter.styles.css
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.TagHelpers.input.cache
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.TagHelpers.output.cache
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.RazorCoreGenerate.cache
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.RazorTargetAssemblyInfo.cache
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.RazorTargetAssemblyInfo.cs
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.Views.pdb
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.csproj.CopyComplete
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\ref\WebP Image Converter.dll
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.pdb
+C:\Users\OSX\Desktop\REPOSITORY\WebP-Image-Converter-Compress\WebP Image Converter\obj\Debug\net5.0\WebP Image Converter.genruntimeconfig.cache

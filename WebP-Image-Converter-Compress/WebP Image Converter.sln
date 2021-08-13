@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebP Image Converter", "WebP Image Converter\WebP Image Converter.csproj", "{36B67976-043F-4F62-896B-5D70857FE687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B67976-043F-4F62-896B-5D70857FE687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B67976-043F-4F62-896B-5D70857FE687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B67976-043F-4F62-896B-5D70857FE687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B67976-043F-4F62-896B-5D70857FE687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D6DEF8E-F7A2-4023-AE97-F7B3CFE26875}
+	EndGlobalSection
+EndGlobal
